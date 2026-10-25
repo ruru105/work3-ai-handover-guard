@@ -1,6 +1,6 @@
 # 作品3:やること抜けチェッカー(Action Item Checker)
 
-旧称:AI Handover Guard(GitHubのリポジトリ名は`ai-handover-guard`のままです)。
+旧称:AI Handover Guard(GitHubのリポジトリ名は`work3-ai-handover-guard`です)。
 
 > 申し送り文章から「誰が・何を・いつまでに」を整理し、対応漏れにつながる曖昧さを警告する業務フロー自動化ツールです。
 
